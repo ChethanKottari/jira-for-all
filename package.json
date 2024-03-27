@@ -1,0 +1,32 @@
+{
+  "name": "jira-for-all",
+  "version": "1.0.0",
+  "description": "Jira For all , Jira for CTO reporting ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChethanKottari/jira-for-all.git"
+  },
+  "keywords": [
+    "jira-for-all",
+    "jira-reporting",
+    "visuallise-jira-board",
+    "high",
+    "level",
+    "view",
+    "of",
+    "jira"
+  ],
+  "author": "chethan kottari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChethanKottari/jira-for-all/issues"
+  },
+  "homepage": "https://github.com/ChethanKottari/jira-for-all#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
